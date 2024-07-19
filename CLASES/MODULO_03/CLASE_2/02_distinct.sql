@@ -1,0 +1,1 @@
+SELECT DISTINCT CountryCode FROM city;
