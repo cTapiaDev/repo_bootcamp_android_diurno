@@ -3,7 +3,7 @@
 
 - [Clase 2 - Consulta de Datos: SELECT](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_2)
 - [Clase 3 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_3)
-- [Clase 4 - Ejercicios Select](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_4)
+- [Clase 4 - Ejercicios Select - Normalizacion - Relaciones SQL](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_4)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
