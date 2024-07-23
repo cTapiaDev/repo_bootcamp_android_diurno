@@ -35,7 +35,7 @@
 - [M3 - Bases de Datos Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
 - [M3 - Consultas de Datos: SELECT](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%202%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
 - [M3 - CRUD](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%203%20-%20CRUD.pdf)
-- [M3 - RELACIONES Y NORMALIZACIÓN](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%204%20-%20%20RELACIONES%20Y%20NORMALIZACI%C3%93N.pdf)
+- [M3 - Relaciones y Normalización](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%204%20-%20%20RELACIONES%20Y%20NORMALIZACI%C3%93N.pdf)
 
 ### Diapositivas M2
 - [M2 - Algoritmos - PSeInt](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%201%20-%20ALGORITMOS_1.pdf)
