@@ -82,3 +82,21 @@ FROM actor a
 JOIN film_actor fa ON a.actor_id = fa.actor_id
 JOIN film f ON f.film_id = fa.film_id
 ORDER BY Actor;
+
+/*
+    Modifica la consulta anterior y muestra una
+    pequeña tabla de dos columnas. La primera
+    va a mantener el nombre y apellido del actor,
+    pero la segunda ahora debe mostrar la
+    cantidad de películas en las que participó. La
+    tabla debe mostrar primero al actor que ha
+    participado en la mayor cantidad de
+    películas.
+*/
+
+SELECT CONCAT(a.first_name, ' ', a.last_name) AS Actor, COUNT(f.title) As Pelicula
+FROM actor a
+JOIN film_actor fa ON a.actor_id = fa.actor_id
+JOIN film f ON f.film_id = fa.film_id
+GROUP BY Actor
+ORDER BY Pelicula DESC;
