@@ -6,6 +6,7 @@
 - [Clase 4 - Ejercicios Select - Normalizacion - Relaciones SQL](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_4)
 - [Clase 5 - Relación entre Tablas - JOIN](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_5)
 - [Clase 6 - Ejercicios Select, Join, Outer Join](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_6)
+- [Clase 7 - Transaction, Commit, Rollback & Ejercicios](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_7)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
@@ -40,6 +41,7 @@
 - [M3 - Relaciones y Normalización](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%204%20-%20%20RELACIONES%20Y%20NORMALIZACI%C3%93N.pdf)
 - [M3 - Relaciones entre tablas - JOIN](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%205%20-%20%20RELACIONES%20ENTRE%20TABLAS.pdf)
 - [M3 - Manipulación de Datos](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%206%20-%20%20MANIPULACI%C3%93N%20DE%20DATOS.pdf)
+- [M3 - Transaccionalidad en las Operaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%207%20-%20TRANSACCIONALIDAD%20EN%20LAS%20OPERACIONES.pdf)
 
 ### Diapositivas M2
 - [M2 - Algoritmos - PSeInt](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/diapositivas/M2%20-%20CLASE%201%20-%20ALGORITMOS_1.pdf)
