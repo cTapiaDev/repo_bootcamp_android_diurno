@@ -7,6 +7,7 @@
 - [Clase 5 - Relación entre Tablas - JOIN](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_5)
 - [Clase 6 - Ejercicios Select, Join, Outer Join](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_6)
 - [Clase 7 - Transaction, Commit, Rollback & Ejercicios](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_7)
+- [Clase 9 - Ejercicios SQLbolt](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_9)
 
 ## Módulo 2 - Fundamentos de Programación en Java
 
