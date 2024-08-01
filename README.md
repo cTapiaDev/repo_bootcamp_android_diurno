@@ -36,6 +36,7 @@
 ----------
 ### Diapositivas M4
 - [M4 - Desarrollo Mobile](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%201%20-%20DESARROLLO%20MOBILE.pdf)
+- [M4 - Descarga e Instalación Android Studio](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%202%20-%20INSTALACI%C3%93N%20DE%20ANDROID%20STUDIO.pdf)
 
 ### Diapositivas M3
 - [M3 - Bases de Datos Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
