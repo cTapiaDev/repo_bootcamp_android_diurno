@@ -1,6 +1,6 @@
 # Bootcamp Desarrollo de Aplicaciones Móviles Android
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
-- [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase3/app)
+- [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
