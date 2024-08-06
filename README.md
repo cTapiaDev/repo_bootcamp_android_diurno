@@ -42,6 +42,7 @@
 - [M4 - Desarrollo Mobile](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%201%20-%20DESARROLLO%20MOBILE.pdf)
 - [M4 - Descarga e Instalación Android Studio](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%202%20-%20INSTALACI%C3%93N%20DE%20ANDROID%20STUDIO.pdf)
 - [M4 - Mi primera App, Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%203%20-%20MI%20PRIMERA%20APP.pdf)
+- [M4 - Interfaz Gráfica](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%204%20-%20INTERFAZ%20GRÁFICA.pdf)
 
 ### Diapositivas M3
 - [M3 - Bases de Datos Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
