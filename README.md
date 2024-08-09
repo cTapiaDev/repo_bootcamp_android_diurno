@@ -3,6 +3,7 @@
 - [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
 - [Clase 4 - ConstraintLayout, Manejo de Colores, Strings y Guías](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase4)
 - [Clase 5 - OnClickListener](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase5)
+- [Clase 6 - RecyclerView - Toolbar](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/proyectos)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
