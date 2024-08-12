@@ -4,6 +4,7 @@
 - [Clase 4 - ConstraintLayout, Manejo de Colores, Strings y Guías](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase4)
 - [Clase 5 - OnClickListener](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase5)
 - [Clase 6 - RecyclerView - Toolbar](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/proyectos)
+- [Clase 7 - Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/MainActivity.java) - [Ejercicio Contador & Landscape](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/Contador.java)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
