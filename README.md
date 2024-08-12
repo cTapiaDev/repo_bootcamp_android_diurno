@@ -4,7 +4,7 @@
 - [Clase 4 - ConstraintLayout, Manejo de Colores, Strings y Guías](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase4)
 - [Clase 5 - OnClickListener](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase5)
 - [Clase 6 - RecyclerView - Toolbar](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/proyectos)
-- [Clase 7 - Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/MainActivity.java) - [Ejercicio Contador & Landscape](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/Contador.java)
+- [Clase 7 - Activitys con Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/MainActivity.java) - [Ejercicio Contador & Landscape](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/Contador.java)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
@@ -47,6 +47,7 @@
 - [M4 - Mi primera App, Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%203%20-%20MI%20PRIMERA%20APP.pdf)
 - [M4 - Interfaz Gráfica](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%204%20-%20INTERFAZ%20GRÁFICA.pdf)
 - [M4 - Elements & Listener](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%205%20-%20ELEMENTS%20%26%20LISTENER.pdf)
+- [M4 - Actividades y Recursos Gráficos](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%206%20-%20ACTIVIDADES%20Y%20RECURSOS%20GRÁFICOS.pdf)
 
 ### Diapositivas M3
 - [M3 - Bases de Datos Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
