@@ -5,6 +5,7 @@
 - [Clase 5 - OnClickListener](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase5)
 - [Clase 6 - RecyclerView - Toolbar](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/proyectos)
 - [Clase 7 - Activitys con Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/MainActivity.java) - [Ejercicio Contador & Landscape](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/Contador.java)
+- [Clase 8 - Fragments](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/ContenedorFragmentos.java) - [Web/FontFamily](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/WebFont.java)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
