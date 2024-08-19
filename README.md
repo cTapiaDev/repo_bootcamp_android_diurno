@@ -50,6 +50,7 @@
 - [M4 - Interfaz Gráfica](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%204%20-%20INTERFAZ%20GRÁFICA.pdf)
 - [M4 - Elements & Listener](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%205%20-%20ELEMENTS%20%26%20LISTENER.pdf)
 - [M4 - Actividades y Recursos Gráficos](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%206%20-%20ACTIVIDADES%20Y%20RECURSOS%20GRÁFICOS.pdf)
+- [M4 - Git y GitHub](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%207%20-%20GIT%20Y%20GITHUB.pdf)
 
 ### Diapositivas M3
 - [M3 - Bases de Datos Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
