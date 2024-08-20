@@ -7,6 +7,7 @@
 - [Clase 7 - Activitys con Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/MainActivity.java) - [Ejercicio Contador & Landscape](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/Contador.java)
 - [Clase 8 - Fragments](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/ContenedorFragmentos.java) - [Web/FontFamily](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/WebFont.java)
 - [Clase 9 - ViewBinding - CheckBox - RadioButtons](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/BindingButtons.java) - [Navigation Component](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/navegacion/app/src/main)
+- [Clase 11 - Ejercicio Integrador Android con Java](https://github.com/cTapiaDev/android_java_ejercicio_integrador/tree/main/app/src)
 
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
