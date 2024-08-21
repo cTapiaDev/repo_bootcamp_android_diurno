@@ -1,4 +1,14 @@
 # Bootcamp Desarrollo de Aplicaciones Móviles Android
+## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
+- [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
+- [Clase 4 - ConstraintLayout, Manejo de Colores, Strings y Guías](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase4)
+- [Clase 5 - OnClickListener](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase5)
+- [Clase 6 - RecyclerView - Toolbar](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/proyectos)
+- [Clase 7 - Activitys con Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/MainActivity.java) - [Ejercicio Contador & Landscape](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/Contador.java)
+- [Clase 8 - Fragments](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/ContenedorFragmentos.java) - [Web/FontFamily](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/WebFont.java)
+- [Clase 9 - ViewBinding - CheckBox - RadioButtons](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/proyectos/app/src/main/java/cl/bootcamp/proyectos/BindingButtons.java) - [Navigation Component](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/navegacion/app/src/main)
+- [Clase 11 - Ejercicio Integrador Android con Java](https://github.com/cTapiaDev/android_java_ejercicio_integrador/tree/main/app/src)
+
 ## Módulo 3 - Fundamentos de Bases de Datos Relacionales
 
 - [Clase 2 - Consulta de Datos: SELECT](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/tree/main/CLASES/MODULO_03/CLASE_2)
@@ -37,6 +47,11 @@
 ### Diapositivas M4
 - [M4 - Desarrollo Mobile](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%201%20-%20DESARROLLO%20MOBILE.pdf)
 - [M4 - Descarga e Instalación Android Studio](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%202%20-%20INSTALACI%C3%93N%20DE%20ANDROID%20STUDIO.pdf)
+- [M4 - Mi primera App, Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%203%20-%20MI%20PRIMERA%20APP.pdf)
+- [M4 - Interfaz Gráfica](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%204%20-%20INTERFAZ%20GRÁFICA.pdf)
+- [M4 - Elements & Listener](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%205%20-%20ELEMENTS%20%26%20LISTENER.pdf)
+- [M4 - Actividades y Recursos Gráficos](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%206%20-%20ACTIVIDADES%20Y%20RECURSOS%20GRÁFICOS.pdf)
+- [M4 - Git y GitHub](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%207%20-%20GIT%20Y%20GITHUB.pdf)
 
 ### Diapositivas M3
 - [M3 - Bases de Datos Relaciones](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_03/M3%20-%20CLASE%201%20-%20BASES%20DE%20DATOS%20RELACIONALES.pdf)
