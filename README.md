@@ -1,4 +1,7 @@
 # Bootcamp Desarrollo de Aplicaciones Móviles Android
+## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
+- [Clase 0 - Kotlin, Variables, Tipos de Datos, Null Safety](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/clase00.kt)
+
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
 - [Clase 4 - ConstraintLayout, Manejo de Colores, Strings y Guías](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo04/clase4)
@@ -44,6 +47,9 @@
 - [Agregar simbolos en la Consola de Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/extras/simboloEnConsola.java)
 
 ----------
+## Diapositivas M5
+- [M5 - Arquitectura y Ciclo de Vida de Componentes Android](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%2000%20-%20ARQUITECTURA%20Y%20CICLO%20DE%20VIDA%20DE%20COMPONENTES%20ANDROID.pdf)
+
 ### Diapositivas M4
 - [M4 - Desarrollo Mobile](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%201%20-%20DESARROLLO%20MOBILE.pdf)
 - [M4 - Descarga e Instalación Android Studio](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%202%20-%20INSTALACI%C3%93N%20DE%20ANDROID%20STUDIO.pdf)
