@@ -13,4 +13,4 @@
 4. Adjunta la última captura a la carpeta creada en el punto dos y genera un .zip
 5. Ya puedes subir tu primera actividad a la plataforma.
 
-###¡Bienvenid@ a este bonito mundo de Kotlin + Jetpack Compose!
+### ¡Bienvenid@ a este bonito mundo de Kotlin + Jetpack Compose!
