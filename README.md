@@ -49,7 +49,10 @@
 - [Agregar simbolos en la Consola de Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/extras/simboloEnConsola.java)
 
 ----------
-## Diapositivas M5
+## Ejercicios Módulo 5
+- [Ejercicio Individual 1](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/EJERCICIOS/MODULO_05/EJERCICIO_INDIVIDUAL_1.md)
+----------
+### Diapositivas M5
 - [M5 - Arquitectura y Ciclo de Vida de Componentes Android](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%2000%20-%20ARQUITECTURA%20Y%20CICLO%20DE%20VIDA%20DE%20COMPONENTES%20ANDROID.pdf)
 - [M5 - Fundamentos en Kotlin](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%201%20-%20FUNDAMENTOS%20EN%20KOTLIN.pdf)
 - [M5 - Iniciando en Jetpack Compose](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%202%20-%20INICIANDO%20EN%20JETPACK%20COMPOSE.pdf)
