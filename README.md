@@ -3,6 +3,7 @@
 - [Clase 0 - Kotlin, Variables, Tipos de Datos, Null Safety](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/clase00.kt)
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola)
 - [Clase 2 - Programación Funcional](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%202%20-%20INICIANDO%20EN%20JETPACK%20COMPOSE.pdf) - [Filter / Map / Reduce](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/FilterMapReduce.kt) - [Inicio Jetpack Compose](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/MainActivity.kt)
+- [Clase 3 - Botones, Temas & Colores](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/clase_temas_colores/app/src/main/java/cl/bootcamp/clasetemascolores)
 
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
