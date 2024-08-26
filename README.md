@@ -1,4 +1,7 @@
 # Bootcamp Desarrollo de Aplicaciones Móviles Android
+----------
+## [Ejercicios Bootcamp Android](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
+----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 0 - Kotlin, Variables, Tipos de Datos, Null Safety](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/clase00.kt)
 - [Clase 1 - Fundamentos en Kotlin](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola)
@@ -49,8 +52,6 @@
 - [Agregar color al texto de Consola en Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/extras/textoConsolaColor.java)
 - [Agregar simbolos en la Consola de Java](https://github.com/cTapiaDev/bootcamp_android_java_diurno/blob/main/src/extras/simboloEnConsola.java)
 
-----------
-## [Ejercicios Bootcamp Android](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
 ### Diapositivas M5
 - [M5 - Arquitectura y Ciclo de Vida de Componentes Android](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%2000%20-%20ARQUITECTURA%20Y%20CICLO%20DE%20VIDA%20DE%20COMPONENTES%20ANDROID.pdf)
