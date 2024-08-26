@@ -1,6 +1,6 @@
 # Bootcamp Desarrollo de Aplicaciones Móviles Android
 ----------
-## [Ejercicios Bootcamp Android](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
+## [Ejercicios Bootcamp Android 2024](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 0 - Kotlin, Variables, Tipos de Datos, Null Safety](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/clase00.kt)
