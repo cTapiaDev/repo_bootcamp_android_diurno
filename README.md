@@ -59,6 +59,8 @@
 - [M5 - Arquitectura y Ciclo de Vida de Componentes Android](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%2000%20-%20ARQUITECTURA%20Y%20CICLO%20DE%20VIDA%20DE%20COMPONENTES%20ANDROID.pdf)
 - [M5 - Fundamentos en Kotlin](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%201%20-%20FUNDAMENTOS%20EN%20KOTLIN.pdf)
 - [M5 - Iniciando en Jetpack Compose](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%202%20-%20INICIANDO%20EN%20JETPACK%20COMPOSE.pdf)
+- [M5 - Navegación](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%203%20-%20NAVEGACIÓN.pdf)
+- [M5 - MVVM](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_05/M5%20-%20CLASE%204%20-%20MVVM.pdf)
 
 ### Diapositivas M4
 - [M4 - Desarrollo Mobile](https://github.com/cTapiaDev/repo_bootcamp_android_diurno/blob/main/DIAPOSITIVAS/MODULO_04/M4%20-%20CLASE%201%20-%20DESARROLLO%20MOBILE.pdf)
