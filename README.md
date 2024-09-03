@@ -12,6 +12,7 @@
 - [Clase 6 - ViewModel - Model](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/app_descuentos_viewmodel)
 - [Clase 7 - Corrutinas](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/corrutinas)
 - [Clase 8 - ToDo List App](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/todo_list_app)
+- [Clase 9 - Flow & DataStore](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/clase_data_store)
 
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
