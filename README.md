@@ -16,6 +16,7 @@
 - [Clase 10 - OnBoardingApp](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/app_on_boarding/app/src/main/java/cl/bootcamp/apponboarding)
 - [Clase 11 - Room DB parte 1](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/clase_room/app/src/main)
 - [Clase 12 - Room DB parte 2](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/clase_room/app/src/main)
+- [Clase 13 - BottomBar & Intent](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_05/clase_intents/app/src/main)
 
 ## Módulo 4 - Desarrollo de la Interfaz de Usuario Android
 - [Clase 3 - Instalar Emuladores, FrameLayout, LinearLayout](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo04/clase3/app/src/main/res/layout/activity_main.xml)
