@@ -10,6 +10,7 @@
 - [Clase 5 - App Game Update](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/api_retrofit/app/src)
 - [Clase 6 - Room Simple](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_room_image/app/src/main/java/cl/bootcamp/approomimage)
 - [Clase 7 - App Wish List (Frontend)](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_wish_list/app/src/main)
+- [Clase 8 - App Wish List (Backend)](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_wish_list)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 0 - Kotlin, Variables, Tipos de Datos, Null Safety](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/clase00.kt)
