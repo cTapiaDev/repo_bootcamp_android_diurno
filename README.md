@@ -13,6 +13,7 @@
 - [Clase 8 - App Wish List (Backend)](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_wish_list)
 - [Clase 9 - App Categorías (API)](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_categorias)
 - [Clase 10 - Ejercicio Integrador - Backend API](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_integrador)
+- [Clase 11 - Ejercicio Integrador - Romm - Fronted](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_integrador)
 ----------
 ## Módulo 5 - Arquitectura y Ciclo de Vida de Componentes Android
 - [Clase 0 - Kotlin, Variables, Tipos de Datos, Null Safety](https://github.com/cTapiaDev/android_studio_proyects_diurno/blob/main/modulo_05/kotlin_consola/app/src/main/java/cl/bootcamp/kotlinconsola/clase00.kt)
