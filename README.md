@@ -2,6 +2,9 @@
 ----------
 ## [Ejercicios Bootcamp Android 2024](https://github.com/cTapiaDev/actividades_bootcamp_android_2024)
 ----------
+## Módulo 7 - Desarrollo de Portafolio de un Producto Digital
+- [Clase 1 - Notes Firebase](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_firebase_notes)
+----------
 ## Módulo 6 - Desarrollo de Aplicaciones Empresariales Android
 - [Clase 1 - Retrofit Data API](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/api_retrofit)
 - [Clase 2 - App Game: Retrofit Parte 2](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/api_retrofit/app/src/main/java/cl/bootcamp/conectarapiretrofit)
