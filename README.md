@@ -4,6 +4,7 @@
 ----------
 ## Módulo 7 - Desarrollo de Portafolio de un Producto Digital
 - [Clase 1 - Notes Firebase](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/app_firebase_notes)
+- [Clase 2 - Ejercicio Integrador](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_07/prueba_certificacion_ej)
 ----------
 ## Módulo 6 - Desarrollo de Aplicaciones Empresariales Android
 - [Clase 1 - Retrofit Data API](https://github.com/cTapiaDev/android_studio_proyects_diurno/tree/main/modulo_06/api_retrofit)
